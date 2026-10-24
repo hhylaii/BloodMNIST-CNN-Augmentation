@@ -56,7 +56,6 @@ BloodMNIST-CNN-Augmentation/
 
 ```
 
-The `results/` directory is optional; only include figures that you actually export from the notebook. The `lectrace/` directory contains the executable teaching demonstration and its `lectrace.toml` configuration. Copy these files from the tested LecTrace workspace, and verify relative paths after moving them.
 
 ## Getting started
 
