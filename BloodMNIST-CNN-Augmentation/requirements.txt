@@ -1,0 +1,14 @@
+# BloodMNIST CNN Augmentation — Python dependencies
+# Versions of PyTorch, torchvision, and NumPy reflect the verified local LecTrace environment.
+# Other dependencies are unpinned until the training notebook environment is checked.
+numpy==1.26.4
+torch==2.2.2
+torchvision==0.17.2
+medmnist
+matplotlib
+scikit-learn
+pandas
+Pillow
+jupyter
+ipykernel
+lectrace

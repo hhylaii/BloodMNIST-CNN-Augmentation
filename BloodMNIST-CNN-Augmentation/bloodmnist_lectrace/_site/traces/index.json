@@ -1,0 +1,12 @@
+{
+  "version": "2",
+  "traces": [
+    {
+      "id": "bloodmnist_lecture",
+      "title": "BloodMNIST: How Mild Augmentation Affects CNN Training",
+      "path": "traces/bloodmnist_lecture.json",
+      "step_count": 66,
+      "built_at": "2026-10-23T13:32:19.439228+00:00"
+    }
+  ]
+}
